@@ -1,0 +1,62 @@
+IT'S SHOWTIME
+    HEY CHRISTMAS TREE currentVal
+    YOU SET US UP 1
+    HEY CHRISTMAS TREE loopControl
+    YOU SET US UP @NO PROBLEMO
+    HEY CHRISTMAS TREE valueControl
+    YOU SET US UP @I LIED
+    HEY CHRISTMAS TREE divisibleByThree
+    YOU SET US UP @I LIED
+    HEY CHRISTMAS TREE divisibleByFive
+    YOU SET US UP @I LIED
+    HEY CHRISTMAS TREE divisibleByThreeAndFive
+    YOU SET US UP @I LIED
+
+    STICK AROUND loopControl
+        GET TO THE CHOPPER divisibleByThree
+            HERE IS MY INVITATION currentVal
+            I LET HIM GO 3
+            YOU ARE NOT YOU YOU ARE ME 0
+        ENOUGH TALK
+
+        GET TO THE CHOPPER divisibleByFive
+            HERE IS MY INVITATION currentVal
+            I LET HIM GO 5
+            YOU ARE NOT YOU YOU ARE ME 0
+        ENOUGH TALK
+
+        GET TO THE CHOPPER divisibleByThreeAndFive
+            HERE IS MY INVITATION divisibleByThree
+            KNOCK KNOCK divisibleByFive
+        ENOUGH TALK
+
+        BECAUSE I'M GOING TO SAY PLEASE divisibleByThreeAndFive
+            TALK TO THE HAND "Arnold Schwarzenegger"
+        BULLSHIT
+            BECAUSE I'M GOING TO SAY PLEASE divisibleByThree
+                TALK TO THE HAND "Arnold"
+            BULLSHIT
+                BECAUSE I'M GOING TO SAY PLEASE divisibleByFive
+                    TALK TO THE HAND "Schwarzenegger"
+                BULLSHIT
+                    TALK TO THE HAND "Get to da choppa!"
+                YOU HAVE NO RESPECT FOR LOGIC
+            YOU HAVE NO RESPECT FOR LOGIC
+        YOU HAVE NO RESPECT FOR LOGIC
+
+        GET TO THE CHOPPER currentVal
+            HERE IS MY INVITATION currentVal
+            GET UP 1
+        ENOUGH TALK
+
+        GET TO THE CHOPPER valueControl
+            HERE IS MY INVITATION currentVal
+            LET OFF SOME STEAM BENNET 30
+        ENOUGH TALK
+
+        GET TO THE CHOPPER loopControl
+            HERE IS MY INVITATION valueControl
+            YOU ARE NOT YOU YOU ARE ME @I LIED
+        ENOUGH TALK
+    CHILL
+YOU HAVE BEEN TERMINATED
