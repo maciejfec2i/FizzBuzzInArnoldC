@@ -9,7 +9,7 @@ Otherwise prints Get to da choppa!
 Java is required to run the program.
 
 ## TO RUN
-- Download the project zip or use git clone
+- Download the project zip or use git clone https://github.com/maciejfec2i/FizzBuzzInArnoldC.git
 - Open command line and navigate to the project folder
 - Input java -jar ArnoldC.jar fizz_buzz.arnoldc and hit Enter
 - Next input java fizz_buzz and hit enter
